@@ -10,7 +10,6 @@ DADA2 downstream - maybe.
 import gzip
 
 from Bio import SeqIO
-from Bio.Alphabet import IUPAC
 from Bio.Seq import Seq
 
 from dna_helper import dna_utility as DU
